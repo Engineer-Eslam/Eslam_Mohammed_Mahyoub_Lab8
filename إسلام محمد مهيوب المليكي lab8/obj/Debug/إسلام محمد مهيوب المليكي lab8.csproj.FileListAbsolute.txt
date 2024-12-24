@@ -1,0 +1,11 @@
+C:\Users\eslam\Documents\Visual Studio 2012\Projects\إسلام محمد مهيوب المليكي lab8\إسلام محمد مهيوب المليكي lab8\bin\Debug\إسلام محمد مهيوب المليكي lab8.exe.config
+C:\Users\eslam\Documents\Visual Studio 2012\Projects\إسلام محمد مهيوب المليكي lab8\إسلام محمد مهيوب المليكي lab8\bin\Debug\إسلام محمد مهيوب المليكي lab8.exe
+C:\Users\eslam\Documents\Visual Studio 2012\Projects\إسلام محمد مهيوب المليكي lab8\إسلام محمد مهيوب المليكي lab8\bin\Debug\إسلام محمد مهيوب المليكي lab8.pdb
+C:\Users\eslam\Documents\Visual Studio 2012\Projects\إسلام محمد مهيوب المليكي lab8\إسلام محمد مهيوب المليكي lab8\obj\Debug\إسلام محمد مهيوب المليكي lab8.csprojResolveAssemblyReference.cache
+C:\Users\eslam\Documents\Visual Studio 2012\Projects\إسلام محمد مهيوب المليكي lab8\إسلام محمد مهيوب المليكي lab8\obj\Debug\إسلام_محمد_مهيوب_المليكي_lab8.Form1.resources
+C:\Users\eslam\Documents\Visual Studio 2012\Projects\إسلام محمد مهيوب المليكي lab8\إسلام محمد مهيوب المليكي lab8\obj\Debug\إسلام_محمد_مهيوب_المليكي_lab8.Form2.resources
+C:\Users\eslam\Documents\Visual Studio 2012\Projects\إسلام محمد مهيوب المليكي lab8\إسلام محمد مهيوب المليكي lab8\obj\Debug\إسلام_محمد_مهيوب_المليكي_lab8.Properties.Resources.resources
+C:\Users\eslam\Documents\Visual Studio 2012\Projects\إسلام محمد مهيوب المليكي lab8\إسلام محمد مهيوب المليكي lab8\obj\Debug\إسلام محمد مهيوب المليكي lab8.csproj.GenerateResource.Cache
+C:\Users\eslam\Documents\Visual Studio 2012\Projects\إسلام محمد مهيوب المليكي lab8\إسلام محمد مهيوب المليكي lab8\obj\Debug\إسلام محمد مهيوب المليكي lab8.exe
+C:\Users\eslam\Documents\Visual Studio 2012\Projects\إسلام محمد مهيوب المليكي lab8\إسلام محمد مهيوب المليكي lab8\obj\Debug\إسلام محمد مهيوب المليكي lab8.pdb
+C:\Users\eslam\Documents\Visual Studio 2012\Projects\إسلام محمد مهيوب المليكي lab8\إسلام محمد مهيوب المليكي lab8\obj\Debug\إسلام_محمد_مهيوب_المليكي_lab8.Form3.resources
